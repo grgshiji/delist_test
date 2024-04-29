@@ -1,0 +1,16 @@
+{
+  "name": "delist_test",
+  "type": "package",
+  "blockId": "W4-lI2S32I_EGKgDhKSKL",
+  "source": {
+    "https": "https://github.com/grgshiji/delist_test.git",
+    "ssh": "git@github.com:grgshiji/delist_test.git",
+    "branch": "block_delist_test"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
